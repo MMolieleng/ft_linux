@@ -7,3 +7,4 @@
 
 ## Files
 *  	version-check.sh -	Checks file checks for available packages needed for the project 
+*   config_packages.sh -	The script installs necessary packages for the kernel to compile 
